@@ -1,4 +1,4 @@
-# Paint-Area-Calculation
+# Paint Area Calculation
 
 his project calculates the number of cans of paint required to cover a wall based on its height, width, and the coverage area per can of paint.
 
